@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gampu&show_icons=true&theme=radical)
+
+![GitHub followers](https://img.shields.io/github/followers/gampu?color=yellow) ![](https://komarev.com/ghpvc/?username=gampu&color=green&label=Profile+Views)
+
+*Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
